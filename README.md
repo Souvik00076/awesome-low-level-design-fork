@@ -62,7 +62,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design LRU Cache](problems/lru-cache.md)(C)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
 - [Design Pub Sub System](problems/pub-sub-system.md)
-- [Design an Elevator System](problems/elevator-system.md)
+- [Design an Elevator System](problems/elevator-system.md)(C)
 - [Design Car Rental System](problems/car-rental-system.md)
 - [Design an Online Auction System](problems/online-auction-system.md)
 - [Design Hotel Management System](problems/hotel-management-system.md)
