@@ -66,12 +66,12 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design Car Rental System](problems/car-rental-system.md)
 - [Design an Online Auction System](problems/online-auction-system.md)
 - [Design Hotel Management System](problems/hotel-management-system.md)
-- [Design a Digital Wallet Service](problems/digital-wallet-service.md)
+- [Design a Digital Wallet Service](problems/digital-wallet-service.md)(R)
 - [Design Airline Management System](problems/airline-management-system.md)
 - [Design a Library Management System](problems/library-management-system.md)
 - [Design a Social Network like Facebook](problems/social-networking-service.md)
 - [Design Restaurant Management System](problems/restaurant-management-system.md)
-- [Design a Concert Ticket Booking System](problems/concert-ticket-booking-system.md)
+- [Design a Concert Ticket Booking System](problems/concert-ticket-booking-system.md)(R)
 
 ### Hard Problems
 
@@ -81,7 +81,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design a Snake and Ladder game](problems/snake-and-ladder.md)
 - [Design Ride-Sharing Service like Uber](problems/ride-sharing-service.md)
 - [Design Course Registration System](problems/course-registration-system.md)
-- [Design Movie Ticket Booking System](problems/movie-ticket-booking-system.md)
+- [Design Movie Ticket Booking System](problems/movie-ticket-booking-system.md)(R)
 - [Design Online Shopping System like Amazon](problems/online-shopping-service.md)
 - [Design Online Stock Brokerage System](problems/online-stock-brokerage-system.md)
 - [Design Music Streaming Service like Spotify](problems/music-streaming-service.md)
