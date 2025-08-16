@@ -66,7 +66,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design Car Rental System](problems/car-rental-system.md)
 - [Design an Online Auction System](problems/online-auction-system.md)
 - [Design Hotel Management System](problems/hotel-management-system.md)
-- [Design a Digital Wallet Service](problems/digital-wallet-service.md)(R)
+- [Design a Digital Wallet Service](problems/digital-wallet-service.md)(C)
 - [Design Airline Management System](problems/airline-management-system.md)
 - [Design a Library Management System](problems/library-management-system.md)
 - [Design a Social Network like Facebook](problems/social-networking-service.md)
