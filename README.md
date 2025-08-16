@@ -47,10 +47,10 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 ## 💻 Low Level Design Interview Problems
 ### Easy Problems
 
-- [Design Parking Lot](problems/parking-lot.md)
-- [Design Stack Overflow](problems/stack-overflow.md)
+- [Design Parking Lot](problems/parking-lot.md)(C)
+- [Design Stack Overflow](problems/stack-overflow.md) (C)
 - [Design a Vending Machine](problems/vending-machine.md)
-- [Design Logging Framework](problems/logging-framework.md)
+- [Design Logging Framework](problems/logging-framework.md)(C)
 - [Design Traffic Signal Control System](problems/traffic-signal.md)
 - [Design Coffee Vending Machine](problems/coffee-vending-machine.md)
 - [Design a Task Management System](problems/task-management-system.md)
@@ -59,7 +59,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 - [Design ATM](problems/atm.md)
 - [Design LinkedIn](problems/linkedin.md)
-- [Design LRU Cache](problems/lru-cache.md)
+- [Design LRU Cache](problems/lru-cache.md)(C)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
 - [Design Pub Sub System](problems/pub-sub-system.md)
 - [Design an Elevator System](problems/elevator-system.md)
