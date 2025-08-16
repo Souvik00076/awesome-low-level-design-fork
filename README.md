@@ -57,7 +57,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 ### Medium Problems
 
-- [Design ATM](problems/atm.md)
+- [Design ATM](problems/atm.md)(C)
 - [Design LinkedIn](problems/linkedin.md)
 - [Design LRU Cache](problems/lru-cache.md)(C)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
